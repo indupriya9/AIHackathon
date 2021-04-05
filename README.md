@@ -11,3 +11,5 @@ Qna used for creating knowledgebase
 The counselchat.html contains the embedded chatbot link
 
 Power BI file
+
+Bot source code.zip file
